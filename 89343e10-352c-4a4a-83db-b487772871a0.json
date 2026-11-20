@@ -1,0 +1,52 @@
+{
+  "uuid": "89343e10-352c-4a4a-83db-b487772871a0",
+  "Attribute": [
+    {
+      "uuid": "22405628-433e-42cc-bdf1-747dc42b8f94",
+      "type": "domain",
+      "value": "inicjatywawsieci.eu",
+      "category": "Network activity",
+      "to_ids": false,
+      "distribution": "5",
+      "id": "1",
+      "event_id": "1",
+      "timestamp": "1795194040",
+      "sharing_group_id": "0",
+      "disable_correlation": false,
+      "comment": "",
+      "deleted": false,
+      "object_id": "0"
+    }
+  ],
+  "info": "Phishing campaing - test",
+  "distribution": "1",
+  "threat_level_id": "4",
+  "analysis": "0",
+  "published": true,
+  "date": "2026-11-20",
+  "id": "1",
+  "orgc_id": "1",
+  "org_id": "1",
+  "timestamp": "1795194040",
+  "publish_timestamp": "1795194124",
+  "sharing_group_id": "0",
+  "Org": {
+    "id": "1",
+    "name": "Inicjatywa W Sieci",
+    "uuid": "11a1bc94-216d-4234-a393-96405daba7dd",
+    "local": true
+  },
+  "Orgc": {
+    "id": "1",
+    "name": "Inicjatywa W Sieci",
+    "uuid": "11a1bc94-216d-4234-a393-96405daba7dd",
+    "local": true
+  },
+  "attribute_count": "1",
+  "proposal_email_lock": false,
+  "locked": false,
+  "first_publication": "1795194124",
+  "disable_correlation": false,
+  "extends_uuid": "",
+  "event_creator_email": "outreach@inicjatywawsieci.eu"
+}
